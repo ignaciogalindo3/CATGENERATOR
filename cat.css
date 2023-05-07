@@ -1,0 +1,22 @@
+#cat_button {
+    background-color: rgb(91, 204, 242);;
+    color: pink;
+    border: none;
+    border-radius: 10px;
+    padding:10px;
+    min-height:10px; 
+    min-width: 120px;
+    font-size: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+
+}
+
+#cat_image {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: #1b6f1b;
+}
